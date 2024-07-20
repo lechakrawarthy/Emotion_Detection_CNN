@@ -21,11 +21,11 @@ Welcome to the **Emotion AI** project! This project is designed to detect emotio
 
 ## 📝 Description
 
-This project leverages cutting-edge machine learning techniques to analyze facial expressions and detect emotions. It utilizes a custom-trained CNN model, implemented in Python with the Keras library, to provide accurate emotion recognition. Perfect for real-time applications and research purposes!
+This project focuses on detecting human emotions using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset. By leveraging advanced CNN architectures like ResNet50v2 and VGG16, and employing techniques to handle class imbalance, the project aims to classify emotions accurately and deploy the model for real-time detection in live video streams.
 
 ![Emotion Detection](https://github.com/lechakrawarthy/Emotion_AI/blob/main/description_emotion.png?raw=true)
 
-### Key Components:
+### 🛠️ Key Components:
 
 - **Custom CNN Model**: Trained on a comprehensive dataset for high accuracy.
 - **Face Detection**: Utilizes Haarcascades for detecting faces in images.
@@ -34,28 +34,29 @@ This project leverages cutting-edge machine learning techniques to analyze facia
 ---
 
 ## 🚀 Features
-
+  Data Augmentation and Class Balancing: Addressed class imbalance in the FER-2013 dataset with image augmentation and class weights to enhance model robustness. Advanced CNN Architectures: Designed and iterated on custom CNN models, optimizing performance with architectures such as VGG16 and ResNet50v2. High Accuracy: Achieved 66% overall accuracy in emotion classification, with detailed performance metrics including precision, recall, and F1-scores for 7 emotion labels. Real-Time Emotion Detection: Deployed the final model using Gradio and OpenCV, enabling dynamic on-screen emotion labels in live video streams.
+  
 - **Real-time Emotion Detection** 
 - **Pre-trained Model** 
 - **Easy Setup**
 
 ---
 
-## Prerequisites
+## 📋Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- **Python 3.2.17** ![Python](https://img.shields.io/badge/Python-3.x-blue)
+- **Python 3.12.4** ![Python](https://img.shields.io/badge/Python-3.12-yellow)
 - **Git** ![Git](https://img.shields.io/badge/Git-Installed-lightgrey)
-- **Git Large File Storage (LFS)** ![LFS](https://img.shields.io/badge/Git_LFS-Installed-blue)
-- **Keras** ![keras](https://img.shields.io/badge/keras-Installed-blue)
+- **Git Large File Storage (LFS)** ![LFS](https://img.shields.io/badge/Git_LFS-Installed-red)
+- **Keras** ![keras](https://img.shields.io/badge/keras-Installed-red)
 - **OpenCv-Python** ![OpenCv](https://img.shields.io/badge/Open_Cv-Installed-blue)
-- **TensorFlow** ![TensorFlow](https://img.shields.io/badge/Tensor_Flow-Installed-blue)
-- **Numpy** ![Numpy](https://img.shields.io/badge/Numpy-Installed-red)
-- **Matplotlib** ![Matplotlib](https://img.shields.io/badge/Matplotlib-Installed-green)
-- **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-Installed-green)
-- **Gradio** ![Gradio](https://img.shields.io/badge/Gradio-Installed-green)
-- **Kaggle DataSet** ![Kaggle](https://img.shields.io/badge/Kaggle-Installed-green)
+- **TensorFlow** ![TensorFlow](https://img.shields.io/badge/Tensor_Flow-Installed-orange)
+- **Numpy** ![Numpy](https://img.shields.io/badge/Numpy-Installed-blue)
+- **Matplotlib** ![Matplotlib](https://img.shields.io/badge/Matplotlib-Installed-lightgrey)
+- **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-Installed-darkblue)
+- **Gradio** ![Gradio](https://img.shields.io/badge/Gradio-Installed-orange)
+- **Kaggle DataSet** ![Kaggle](https://img.shields.io/badge/Kaggle-Installed-blue)
 - **[Kaggle_DataSet](https://www.kaggle.com/datasets/msambare/fer2013)**
 
 ---
@@ -196,6 +197,30 @@ Create a pull request from your branch to the main repository, describing your c
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```sql
+MIT License
+
+Copyright (c) [2024] [L E Chakrawarthy Sreenivas]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 
 ---
 
@@ -210,5 +235,3 @@ For questions or suggestions, reach out to:
 Thank you for contributing to the Emotion AI project!
 
 ---
-
-This version maintains clarity, includes graphics, and icons appropriate for each section while ensuring that images and icons render correctly.
