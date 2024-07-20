@@ -6,7 +6,7 @@ Welcome to the **Emotion AI** project! This project is designed to detect emotio
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Description](#description) 
 - [Features](#features)
@@ -19,7 +19,7 @@ Welcome to the **Emotion AI** project! This project is designed to detect emotio
 - [Contact](#contact) 
 ---
 
-## Description
+## 📝 Description
 
 This project leverages cutting-edge machine learning techniques to analyze facial expressions and detect emotions. It utilizes a custom-trained CNN model, implemented in Python with the Keras library, to provide accurate emotion recognition. Perfect for real-time applications and research purposes!
 
@@ -33,7 +33,7 @@ This project leverages cutting-edge machine learning techniques to analyze facia
 
 ---
 
-## Features
+## 🚀 Features
 
 - **Real-time Emotion Detection** 
 - **Pre-trained Model** 
@@ -60,7 +60,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## Installation
+## 🛠️ Installation
 
 ### 1. Clone the Repository
 
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+## 🏃 Usage
 
 ### Running the Project
 
@@ -134,7 +134,7 @@ Here’s how you can use the project:
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 Briefly describing the project structure:
 
@@ -150,7 +150,7 @@ Emotion_AI/
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions! To contribute:
 
@@ -193,13 +193,13 @@ Create a pull request from your branch to the main repository, describing your c
 
 ---
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Contact
+## 📫 Contact
 
 For questions or suggestions, reach out to:
 
