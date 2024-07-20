@@ -50,7 +50,13 @@ Before you begin, ensure you have the following installed:
 - **Git Large File Storage (LFS)** ![LFS](https://img.shields.io/badge/Git_LFS-Installed-blue)
 - **Keras** ![keras](https://img.shields.io/badge/keras-Installed-blue)
 - **OpenCv-Python** ![OpenCv](https://img.shields.io/badge/Open_Cv-Installed-blue)
-- 
+- **TensorFlow** ![TensorFlow](https://img.shields.io/badge/Tensor_Flow-Installed-blue)
+- **Numpy** ![Numpy](https://img.shields.io/badge/Numpy-Installed-red)
+- **Matplotlib** ![Matplotlib](https://img.shields.io/badge/Matplotlib-Installed-green)
+- **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-Installed-green)
+- **Gradio** ![Gradio](https://img.shields.io/badge/Gradio-Installed-green)
+- **Kaggle DataSet** ![Kaggle](https://img.shields.io/badge/Kaggle-Installed-green)
+- **[Kaggle_DataSet](https://www.kaggle.com/datasets/msambare/fer2013)**
 
 ---
 
