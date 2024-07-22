@@ -21,7 +21,7 @@ Welcome to the **Emotion AI** project! This project is designed to detect emotio
 
 ## 📝 Description
 
-This project focuses on detecting human emotions using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset. By leveraging advanced CNN architectures like ResNet50v2 and VGG16, and employing techniques to handle class imbalance, the project aims to classify emotions accurately and deploy the model for real-time detection in live video streams.
+This project focuses on detecting human emotions using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset. By leveraging advanced CNN architectures and employing techniques to handle class imbalance, the project aims to classify emotions accurately and deploy the model for real-time detection in live video streams.
 
 ![Emotion Detection](https://github.com/lechakrawarthy/Emotion_AI/blob/main/description_emotion.png?raw=true)
 
