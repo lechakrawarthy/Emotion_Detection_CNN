@@ -1,5 +1,3 @@
----
-
 # Emotion AI Project ![Emotion AI Graphics](https://img.shields.io/badge/Emotion_AI-Project-FF6F61?logo=python&logoColor=white) ![Emotion AI Header](https://github.com/lechakrawarthy/Emotion_AI/blob/main/header_emotion.png?raw=true) 
 
 Welcome to the **Emotion AI** project! This project is designed to detect emotions from facial expressions using a custom Convolutional Neural Network (CNN) model. Dive into the details below to get started.
