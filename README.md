@@ -194,7 +194,7 @@ Create a pull request from your branch to the main repository, describing your c
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.See the [LICENSE](LICENSE) file for details.
 ```sql
 MIT License
 
